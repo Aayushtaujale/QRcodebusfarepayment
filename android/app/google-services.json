@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "563101035174",
+    "project_id": "bus-fare-qr",
+    "storage_bucket": "bus-fare-qr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563101035174:android:719864e44b220f032b6267",
+        "android_client_info": {
+          "package_name": "in.krishnavishwakarma.busfare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563101035174-grud6udgnt1gc9ab6mk6u0s9k5tjgeer.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.krishnavishwakarma.busfare",
+            "certificate_hash": "efda4ac0f32013251770ab26d81b80ff3b4280f8"
+          }
+        },
+        {
+          "client_id": "563101035174-ovinksma08udqbhijcqb3pr6cfo7l1am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_58hJ9SwltswmhlikvqiuLN-Tz3Zh8_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563101035174-ovinksma08udqbhijcqb3pr6cfo7l1am.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "563101035174-4368ion29n9cmqkjtgajhqbogtl2p8ku.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lazarusnetwork.qrcode"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
